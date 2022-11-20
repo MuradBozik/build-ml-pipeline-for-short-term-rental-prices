@@ -1,5 +1,5 @@
 # Weights & Biases Public Project
-Link to [public weights & biases project](`https://wandb.ai/muradbozik/nyc_airbnb`)
+Link to [public weights & biases project](https://wandb.ai/muradbozik/nyc_airbnb) 
 
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
